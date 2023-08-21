@@ -110,3 +110,11 @@ p {
     padding: 40px 10px 40px 10px;
     transform: translate(-50%,-50%);
 }
+
+/* responsive code */
+
+@media screen and (max-width: 700px) {
+    .quizApp{
+        width: 100vw;
+    }
+  }
